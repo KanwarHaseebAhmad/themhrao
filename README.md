@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themhrao&label=Profile%20views&color=0e75b6&style=plastic" alt="Haseeb" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="Haseeb"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=themhrao&theme=algolia" alt="Haseeb"  /></p>
 
 
 ## 🛠️ My Skills
