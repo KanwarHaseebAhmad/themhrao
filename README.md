@@ -8,7 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themhrao&label=Profile%20views&color=0e75b6&style=plastic" alt="Haseeb" /> </p>
 
 ## 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=themhrao&theme=algolia" alt="Haseeb"  /></p>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -45,7 +47,9 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/tailwindcss%20-%23E34F26.svg?style=flat&logo=tailwindcss&logoColor=white"/>
   </a>
 </p>
+
 ### 👉 Databases & Cloud Hosting
+
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -56,14 +60,18 @@
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
+
 ### 👉Graphic Designing
+
 <p align="left">
     &emsp;
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
  </p>
+
 ### 👉 Software & Tools
+
 <p>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
@@ -82,7 +90,9 @@
   &emsp;
 </p>
 <br/>
+
 ## 📊 Github Stats (Expand to View) 
+
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
