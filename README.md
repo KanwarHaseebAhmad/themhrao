@@ -118,7 +118,7 @@
 <p align="center">
   	<a href="https://kanwarhaseebahmad.com"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:haseebrao20@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://twitter.com/the_mh_rao"><img src="https://icons8.com/icon/114450/twitter-circled" alt="Twitter"/></a>
+	<a href="https://twitter.com/the_mh_rao"><img src="https://img.icons8.com/color/48/null/twitter-circled--v1.png" alt="Twitter"/></a>
 	<a href="https://github.com/themhrao"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/kanwarhaseebahmad/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/themhrao"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
