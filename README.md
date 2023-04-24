@@ -10,7 +10,9 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=themhrao&theme=algolia" alt="Haseeb"  /></p>
 ## 🛠️ My Skills
+
 ### 👉 Programming languages
+
 <p align="left"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -22,7 +24,9 @@
   </a>
   &emsp;
 </p>
+
 ### 👉 Frontend Development
+
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
